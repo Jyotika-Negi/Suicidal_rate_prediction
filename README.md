@@ -1,4 +1,4 @@
-# Suicidal_rate_prediction
+# Suicide_rate_prediction
 This is a data science project takes your instagram comments and captions using Instagram API applies analysis on it and predict whether the user is depressed or not and
 if the user is depressed wili he/she commit suicide or not.
 The code uses NLPK and textblob for analysis of negitive and positive comments later on it will categorized them into suicidal , non suicidal categories and depressed category
